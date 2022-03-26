@@ -1,3 +1,22 @@
 body {
-  background: linear-gradient(rgb(63, 63, 219), rgb(194, 192, 192));
+  background: linear-gradient(rgb(105, 105, 240), rgb(118, 115, 133));
+}
+
+.logo {
+  float: right;
+}
+.Top-Image {
+  margin-top: 50px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 130px;
+}
+
+.columns {
+  display: flex;
+  border: 5px solid white;
+  margin: auto;
+  box-sizing: border-box;
+  justify-content: space-evenly;
 }
