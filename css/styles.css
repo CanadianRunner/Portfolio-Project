@@ -3,8 +3,9 @@ body {
 }
 
 .logo {
-  float: right;
+  float: right 100px;
 }
+
 .Top-Image {
   margin-top: 50px;
   margin-bottom: 20px;
