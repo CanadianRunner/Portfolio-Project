@@ -23,6 +23,19 @@ body {
   width: 130px;
 }
 
+.ThirdImage {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 130px;
+}
+
+h5 {
+  color: white;
+}
+
 /*.column1 {
   display: flex;
   border: 5px solid white;
