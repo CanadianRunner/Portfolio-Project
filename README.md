@@ -21,8 +21,7 @@ _This is application is my "Portfolio Landing Page".  I used HTML to craft the m
 * Open the file "index.html" in your browser.
 
 ## Project Can Be Found At:
-https://github.com/CanadianRunner/Portfolio-Project.git
-
+https://canadianrunner.github.io/Portfolio-Project/
 ## Known Bugs
 
 * Image spacing is setup as intended in windowed mode.  But the image spacing is "broken" in fullscreen.
