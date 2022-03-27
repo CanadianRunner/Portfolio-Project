@@ -12,7 +12,7 @@
 
 ## Description
 
-_This is application is my "Portfolio Landing Page".  I used HTML to craft the majority of what you see informationally.  I used CSS to manipulate the text (colours, sizing, outlines, etc).  I utilized "CSS Bootstrap" to create a navigation buttons, along with fun interactive pieces such as the rotating progress bar.  This project while appearing simple took me a considerable amount of time to implement.  But considering just a couple weeks ago I wouldn't have been able to do anything with the terminal, let alone create/manipulate an HTML I'm happy with the result._
+_This application is my "Portfolio Landing Page".  I used HTML to craft the majority of what you see informationally.  I used CSS to manipulate the text (colours, sizing, outlines, etc).  I utilized "CSS Bootstrap" to create a navigation buttons, along with fun interactive pieces such as the rotating progress bar.  This project while appearing simple took me a considerable amount of time to implement.  But considering just a couple weeks ago I wouldn't have been able to do anything with the terminal, let alone create/manipulate an HTML I'm happy with the result._
 
 ## Setup/Installation Requirements
 
