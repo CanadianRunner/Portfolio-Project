@@ -7,8 +7,7 @@ body {
 }
 
 .Top-Image {
-  margin-top: 50px;
-  margin-bottom: 20px;
+  Margin:auto;
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
@@ -16,7 +15,7 @@ body {
 }
 
 .SecondImage {
-  margin-top: 50px;
+  margin-top: auto;
   margin-bottom: 20px;
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -25,7 +24,7 @@ body {
 }
 
 .ThirdImage {
-  margin-top: 50px;
+  margin-top: auto;
   margin-bottom: 20px;
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -34,7 +33,7 @@ body {
 }
 
 .FourthImage {
-  margin-top: 50px;
+  margin-top: auto;
   margin-bottom: 20px;
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -46,7 +45,7 @@ h5 {
   color: white;
 }
 
-/*.column1 {
+.box {
   display: flex;
   border: 5px solid white;
   margin: auto;
